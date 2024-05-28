@@ -8,7 +8,7 @@ export const Header = () => (
   <header className={styles.header}>
     <Container>
       <Link to="/" className={styles.logo}>
-        The Magazine
+        Детали Машин (Богданов)
       </Link>
     </Container>
   </header>
